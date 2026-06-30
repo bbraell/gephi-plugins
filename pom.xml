@@ -13,6 +13,10 @@
     <modules>
         <!-- Add here the paths of all modules (e.g. <module>modules/MyModule</module>) -->
 
+
+        <module>modules/BearkatCentralization</module>
+
+
         <module>modules/BearkatCentralization</module>
 
         <module>modules/GeoLayout</module>
